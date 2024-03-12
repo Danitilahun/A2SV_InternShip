@@ -43,7 +43,7 @@ const Card = () => {
             </div>
 
             <div class="w-[76px] h-[31px] rounded-[80px] p-[6px] gap-[8px] flex justify-center items-center border border-[#4640DE]">
-              <div class="font-epilogue font-semibold text-[12px] text-black">
+              <div class="font-epilogue font-semibold text-[12px] text-[#4640DE]">
                 IT
               </div>
             </div>
