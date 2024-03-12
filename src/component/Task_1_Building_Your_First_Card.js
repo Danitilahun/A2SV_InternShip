@@ -6,20 +6,20 @@ const Card = () => {
           <img src="/logo.svg" className="h-[59px] w-[66px]" alt="logo" />
         </div>
         <div className="h-[100%] w-[755px] flex flex-col gap-[8px]">
-          <div class="font-epilogue font-semibold text-[20px] text-blue-900">
+          <div class="font-epilogue font-semibold text-[20px] text-[#25324B]">
             Social Media Assistant
           </div>
           <div class="flex w-[454px] h-[27px] gap-[8px] items-center">
-            <div class="font-epilogue font-normal text-[16px] text-blue-900">
+            <div class="font-epilogue font-normal text-[16px] text-[#7C8493]">
               Young Men Christians Association
             </div>
             <div class="w-[4px] h-[4px] flex items-center justify-center bg-[#7C8493] rounded-full"></div>
-            <div class="font-epilogue font-normal text-[16px] text-blue-900">
+            <div class="font-epilogue font-normal text-[16px] text-[#7C8493]">
               Addis Ababa, Ethiopia
             </div>
           </div>
 
-          <div class="w-[744px] h-[112px] font-epilogue text-[16px] leading-[25.6px] text-[#25324B]">
+          <div class="w-[744px] h-[112px] font-epilogue text-[16px] leading-[25.6px] text-[#25324B] font-[400]">
             As a Social Media Assistant, you will work closely with the social
             media manager or marketing team to execute social media strategies
             and campaigns. You will be responsible for assisting in the creation
