@@ -28,8 +28,8 @@ const Card = () => {
           </div>
 
           <div class="flex w-[242px] h-[31px] gap-[8px]">
-            <div class="bg-[#56CDAD] w-[76px] h-[31px] rounded-[80px] p-[6px] gap-[8px] flex justify-center items-center">
-              <div class="font-epilogue font-semibold text-[12px] text-blue-900">
+            <div class="bg-[#e0f5ef] w-[76px] h-[31px] rounded-[80px] p-[6px] gap-[8px] flex justify-center items-center">
+              <div class="font-epilogue font-semibold text-[12px] text-[#56CDAD]">
                 In person
               </div>
             </div>
