@@ -19,7 +19,7 @@ const Card = () => {
             </div>
           </div>
 
-          <div class="w-[744px] h-[112px] font-epilogue font-normal text-base leading-25.6">
+          <div class="w-[744px] h-[112px] font-epilogue text-[16px] leading-[25.6px] text-[#25324B]">
             As a Social Media Assistant, you will work closely with the social
             media manager or marketing team to execute social media strategies
             and campaigns. You will be responsible for assisting in the creation
