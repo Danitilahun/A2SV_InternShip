@@ -1,8 +1,8 @@
 const Card = () => {
   return (
     <div className="h-[266px] w-[919px] rounded-[30px] border-[1px] bg-white p-[24px]">
-      <div className="flex h-[100%] w-[100%] gap-3">
-        <div className="h-[100%] w-[89px">
+      <div className="flex h-[100%] w-[100%]">
+        <div className="h-[100%] w-[89px]">
           <img src="/logo.svg" className="h-[59px] w-[66px]" alt="logo" />
         </div>
         <div className="h-[100%] w-[755px] flex flex-col gap-[8px]">
